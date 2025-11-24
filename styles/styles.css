@@ -1,0 +1,60 @@
+body{
+    background-color:#1e1e2e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.idCard{
+    background-color: #28293d;
+    padding: 40px;
+    border-radius: 20px;
+    text-align:center;
+    width:300px;
+    border: 2px solid  #6c5ce7;
+}
+
+#firstName, #lastName{
+    margin: 5px;
+    color: #a29bfe;
+    font-size: 2rem;
+}
+#codeStackEmail, #email{
+    font-weight: normal;
+    color: #a1c8da;
+    font-size: 0.9rem;
+}
+
+button {
+    background-color: #5c4bd6;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    margin-top: 20px;
+    border-radius: 50px;
+    font-size: 1rem;
+}
+button:hover{
+    background-color: #a29bfe;
+}
+
+#historySection {
+    margin-top: 20px;
+    text-align: center;
+}
+ul{
+    padding: 0;
+}
+
+li{
+    background-color: #ffffff05;
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 5px;
+    color:white;
+}

@@ -1,0 +1,154 @@
+{
+  "students": [
+    {
+      "firstName": "Arianna",
+      "lastName": "Huntley",
+      "codeStackEmail": "N/A",
+      "email": "clair10022004@gmail.com"
+    },
+    {
+      "firstName": "Brandon",
+      "lastName": "Estrada",
+      "codeStackEmail": "bestrada@codestack.co",
+      "email": "bestrada8800@gmail.com"
+    },
+    {
+      "firstName": "Brandon",
+      "lastName": "Van Horn",
+      "codeStackEmail": "bmdvanhorn@codestack.co",
+      "email": "bmdvanhorn@icloud.com"
+    },
+    {
+      "firstName": "Bryce",
+      "lastName": "Mack",
+      "codeStackEmail": "N/A",
+      "email": "brycewmack50@outlook.com"
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Lopez",
+      "codeStackEmail": "clopez@codestack.co",
+      "email": "carlos.lopez5639@gmail.com"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Herrera",
+      "codeStackEmail": "dherrera@codestack.co",
+      "email": "dherr929@gmail.com"
+    },
+    {
+      "firstName": "Darcy",
+      "lastName": "Rose",
+      "codeStackEmail": "drose@codestack.co",
+      "email": "darcy.ophelia.rose@gmail.com"
+    },
+    {
+      "firstName": "Eliasaf",
+      "lastName": "Gonzalez",
+      "codeStackEmail": "eGonzalez@codestack.co",
+      "email": "eliasafgonzalez0@gmail.com"
+    },
+    {
+      "firstName": "Gavin",
+      "lastName": "Tristan",
+      "codeStackEmail": "gtristan@codestack.co",
+      "email": "gaqtristan@gmail.com"
+    },
+    {
+      "firstName": "Isaias",
+      "lastName": "Gonzales",
+      "codeStackEmail": "igonzalez@codestack.co",
+      "email": "ijgggr@gmail.com"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Blackwell",
+      "codeStackEmail": "jblackwell@codestack.co",
+      "email": "bwelljames@gmail.com"
+    },
+    {
+      "firstName": "Jesus",
+      "lastName": "Salgado",
+      "codeStackEmail": "jsalgado@codestack.co",
+      "email": "jesussalgado9040@gmail.com"
+    },
+    {
+      "firstName": "Joseph",
+      "lastName": "Duarte",
+      "codeStackEmail": "jduarte@codestack.co",
+      "email": "Duartemjoseph@gmail.com"
+    },
+    {
+      "firstName": "Kellen",
+      "lastName": "Dixon",
+      "codeStackEmail": "kdixon@codestack.co",
+      "email": "kellendixon2007@gmail.com "
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "Guptill",
+      "codeStackEmail": "Lguptill@codestack.co",
+      "email": "fabledparadox@gmail.com"
+    },
+    {
+      "firstName": "Nicolas",
+      "lastName": "Gonzaba",
+      "codeStackEmail": "Ngonzaba@codestack.co",
+      "email": "NicolasGonzaba1@gmail.com"
+    },
+    {
+      "firstName": "Pallavi",
+      "lastName": "Pattanashetti",
+      "codeStackEmail": "ppattanashetti@codestack.co",
+      "email": "Pallavi.Pattanashetti@gmail.com"
+    },
+    {
+      "firstName": "Rizwan",
+      "lastName": "Mehmoo",
+      "codeStackEmail": "rmehmoo@codestack.co",
+      "email": "N/A"
+    },
+    {
+      "firstName": "Sammer",
+      "lastName": "Saqa",
+      "codeStackEmail": "Ssaqa@codestack.co",
+      "email": "sammersaqa@gmail.com"
+    },
+    {
+      "firstName": "Vanessa",
+      "lastName": "Acuna",
+      "codeStackEmail": "vacuna@codestack.com",
+      "email": "vanessa.acuna98@gmail.com"
+    },
+    {
+      "firstName": "Xavier",
+      "lastName": "Jacques",
+      "codeStackEmail": "xjacques@codestack.co",
+      "email": "xavierjacques2442@gmail.com"
+    },
+    {
+      "firstName": "Kenneth",
+      "lastName": "Martinez",
+      "codeStackEmail": "kmartinez@codestack.co",
+      "email": "kmartinez@sjcoe.net"
+    },
+    {
+      "firstName": "Isaiah",
+      "lastName": "Ferguson",
+      "codeStackEmail": "iferguson@codestack.co",
+      "email": "ifergusoniii@sjcoe.net"
+    },
+    {
+      "firstName": "Jose",
+      "lastName": "Martinez",
+      "codeStackEmail": "jmartinez@codestack.co",
+      "email": "jmartinez@sjcoe.net"
+    },
+    {
+      "firstName": "Jacob",
+      "lastName": "Dekok",
+      "codeStackEmail": "jdekok@codestack.co",
+      "email": "jdekok@sjcoe.net"
+    }
+  ]
+}
